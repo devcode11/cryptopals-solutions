@@ -1,0 +1,9 @@
+[project]
+name = "cryptopals-solutions"
+version = "0.1.0"
+description = "Solutions for https://www.cryptopals.com"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+]
